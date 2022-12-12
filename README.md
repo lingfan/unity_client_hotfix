@@ -3,6 +3,9 @@
 ## yooasset
 ## fairygui
 
+
+## manifest.json
+修改 package/manifest.json
 ```
   "scopedRegistries": [
     {
