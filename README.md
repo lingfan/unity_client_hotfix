@@ -1,8 +1,10 @@
 # unity_client_hotfix
-## hybridclr
-## yooasset
-## fairygui
-
+## hybridclr 编译加载
+## yooasset  资源加载
+## fairygui  界面
+## protobuf-net  协议
+## luban 配置文件
+## websocket 网络
 
 ## manifest.json
 修改 package/manifest.json
