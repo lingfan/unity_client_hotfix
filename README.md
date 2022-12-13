@@ -4,7 +4,7 @@
 ## fairygui  界面
 ## protobuf-net  协议
 ## luban 配置文件
-## websocket 网络
+## websocket 网络  https://github.com/James-Frowen/SimpleWebTransport
 
 ## manifest.json
 修改 package/manifest.json
@@ -25,6 +25,7 @@
         "com.cysharp.unitask",
         "com.neuecc.unirx",
         "com.tuyoogame.yooasset",
+        "com.james-frowen",
         "com.focus-creative-games.hybridclr_unity"
       ]
     }
