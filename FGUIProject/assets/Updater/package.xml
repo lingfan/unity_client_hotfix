@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="e464nq16">
+  <resources>
+    <component id="j6ln0" name="Init.xml" path="/"/>
+    <component id="j6ln1" name="LoadingProgressBar.xml" path="/"/>
+    <component id="j6ln2" name="loadingLabel.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

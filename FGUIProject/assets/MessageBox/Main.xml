@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1000,800">
+  <displayList>
+    <richtext id="n0_j6ln" name="title" xy="244,95" size="452,71" fontSize="30" align="center" vAlign="middle" autoSize="none" bold="true" text="标题"/>
+    <text id="n1_j6ln" name="content" xy="180,278" size="581,290" fontSize="30" autoSize="none" bold="true" text="内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容内容"/>
+    <component id="n2_j6ln" name="n2" src="j6ln1" fileName="okBtn.xml" xy="299,620"/>
+  </displayList>
+</component>

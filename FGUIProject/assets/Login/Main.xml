@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <text id="n0_j6ln" name="username" xy="222,531" size="600,100" fontSize="12" autoSize="none" text="" input="true"/>
+    <text id="n2_j6ln" name="password" xy="222,706" size="600,100" fontSize="12" autoSize="none" text="" input="true"/>
+    <component id="n3_j6ln" name="n3" src="j6ln1" fileName="loginBtn.xml" xy="401,922"/>
+  </displayList>
+</component>

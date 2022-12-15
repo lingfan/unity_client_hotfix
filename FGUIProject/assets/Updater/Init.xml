@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1080,1920">
+  <displayList>
+    <component id="n0_j6ln" name="loadingBar" src="j6ln1" fileName="LoadingProgressBar.xml" xy="41,1800" size="1000,60">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <component id="n1_j6ln" name="loadingLabel" src="j6ln2" fileName="loadingLabel.xml" xy="320,1802" size="400,60">
+      <Label title="加载中 100/100" titleFontSize="25"/>
+    </component>
+  </displayList>
+</component>

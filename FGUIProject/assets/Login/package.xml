@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="enen2ja4">
+  <resources>
+    <component id="j6ln0" name="Main.xml" path="/"/>
+    <component id="j6ln1" name="loginBtn.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>
