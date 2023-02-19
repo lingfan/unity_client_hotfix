@@ -31,3 +31,6 @@
     }
   ]
 ```
+https://gitee.com/focus-creative-games/hybridclr_unity.git
+https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
+https://github.com/tuyoogame/YooAsset.git?path=Assets/YooAsset
